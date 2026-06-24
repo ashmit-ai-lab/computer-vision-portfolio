@@ -53,6 +53,15 @@ Project_Hand_Gesture_Controlled_Presentation/
 
 ---
 
+## Controls
+
+- Keep hand above threshold line for gesture detection
+
+- Use clear gestures for better accuracy
+
+- Avoid fast/random movements
+
+
 ## How to Run
 ### 1. Install dependencies
 
@@ -61,11 +70,3 @@ pip install opencv-python cvzone numpy
 
 ### 2. Run the project
 python main.py
-
-## Controls
-
-- Keep hand above threshold line for gesture detection
-
-- Use clear gestures for better accuracy
-
-- Avoid fast/random movements
