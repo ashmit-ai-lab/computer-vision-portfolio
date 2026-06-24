@@ -67,6 +67,10 @@ Project_Hand_Gesture_Controlled_Presentation/
 
 ```bash
 pip install opencv-python cvzone numpy
+```
 
 ### 2. Run the project
+
+```bash
 python main.py
+```
